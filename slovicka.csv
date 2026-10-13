@@ -41,7 +41,6 @@ perdō, ere, perdidī, perditum|ztratit; zničit, zahubit|3.2
 sapor, ōris, m.|chuť|3.2
 vīnum, vīnī, n.|víno|3.2
 nihil|nic; adverbiálně: nijak, vůbec|3.2
-interest, interesse|záleží|3.2
 vēsīca, ae, f.|močový měchýř|3.2
 amphora, ae, f.|amfora, nádoba na víno|3.2
 dēsīderō 1|toužím po něčem, postrádám něco|3.2
@@ -56,8 +55,7 @@ impleō, ēre, ēvī, ētum|naplnit|3.2
 pōculum, ī, n.|pohár, číše|3.2
 concavus 3|vydutý, vyklenutý, prohnutý|3.2
 Cēus, Cēī, m.|obyvatel ostrova Kós|3.2
-accipiō, ere, cēpī, ceptum|přijmout; utržit; být informován o něčem|3.2
-zprostředkovaně (z doslechu, z vyprávění, z četby vědět)|3.2|
+accipiō, ere, cēpī, ceptum|přijmout; utržit; být informován o něčem zprostředkovaně (z doslechu, z vyprávění, z četby vědět)|3.2
 ortus, ūs, m.|vznik, východ (hvězdy)|3.2
 Canīcula, ae, f.|souhvězdí Malého psa (vychází v březnu)|3.2
 quotannīs|každoročně|3.2
@@ -65,7 +63,7 @@ servō 1|zachovávat, sledovat|3.2
 coniectūram capere|domýšlet se, dohadovat se, předvídat|3.2
 salūbris, bre (n. salūber. bris, bre)|zdravý, zdravý prospěšný|3.2
 pestilēns, ntis|zhoubný, morový|3.2
-interest, interesse|je rozdíl|3.2
+interest, interesse (impers.)|je rozdíl, záleží|3.2
 *interest meā/tuā...|mně/tobě záleží (je pro mě/tebe důležité)|3.2
 sapiō, ere, sapiī|být moudrý; chutnat|3.2
 arcessō, ere, īvī, ītum (též accersō)|povolat, přivolat|3.2
@@ -81,8 +79,7 @@ remedium, remediī, n. + gen.|lék (proti něčemu)|3.2
 contemnō, ere, contempsī, contemptum|opovrhovat čím (+ ak.); zde: přestat se bát;|3.2
 cōnsulō, ere, cōnsuluī, cōnsultum + akuz.|radím se s někým|3.2
 cōnsilium, cōnsiliī, n.|plán, úmysl, rada, záměr|3.2
-referō, ferre, rettulī, relātum ad alqm dē rē|předložit někomu nějaký problém, obrátit se s otázkou|3.2
-na někoho|3.2|
+referō, ferre, rettulī, relātum ad alqm dē rē|předložit někomu nějaký problém, obrátit se s otázkou na někoho|3.2
 obscūrus 3|nejasný, temný|3.2
 nāvigō 1|plavit se, plout; (+ ak. = plavit se po něčem, přes něco)|3.2
 immolō 1|obětovat|3.2
@@ -179,7 +176,7 @@ optābilis, e|žádoucí|3.3b
 magnō animō|s velkým duchem, statečně|3.3b
 ūrō, ere, ussī, ustum|pálit, spalovat|3.3b
 aegrōtō 1|stonat, být nemocný|3.3b
-vōtum, ī, n.|slib bohům; přání|3.3b
+vōtum, ī, n.|slib bohům; přání, zaslíbení|3.3b
 plērumque|často|3.3b
 ēventus, ūs, m.|výsledek|3.3b
 ponderō 1|zvažovat, posuzovat|3.3b
@@ -289,7 +286,7 @@ acūtus 3|ostrý; břitký, bystrý|3.5
 collēctiō, ōnis, f.|sylogismus, argumentační řetězec|3.5
 puerīlis, e|chalpecký, dětský; dětinský|3.5
 adsentior, īrī, adsēnsus sum (ass-)|přitakat něčemu, odkývat něco (+dat)|3.5
-comparō 1|přichystat k sobě, srovnávat|3.5
+comparō 1|přichystat k sobě, srovnávat, obstarat|3.5
 suscipiō, ere, cēpī, ceptum|přijmout; vzít si za své, přijmout, osvojit si|3.5
 anīlis, e|stařecký, babský|3.5
 obligō 1|zavázat, pas. zaplést se do|3.5
@@ -352,7 +349,7 @@ tantō opere (tantopere)|tolik|3.8a
 grātia, ae, f.|přízeň, milost, laskavost, půvab|3.8a
 opportūnitās, ātis, f.|příhodnost, příležitost|3.8a
 lītus, oris, n.|břeh|3.8a
-spatium, iī, n.|prostor (zde: rozsáhlost)|3.8a
+spatium, iī, n.|vzdálenost, prostor (zde: rozsáhlost)|3.8a
 cōgnōscō, ere, cōgnōvī, cōgnitum|poznávám|3.8a
 vārix, icis, m./f.|křečová, strhaná žíla|3.8a
 archōn, archontis, m.|archont, nejvyšší úředník v Athénách|3.8a
@@ -411,7 +408,6 @@ fānum, ī, n.|svatyně|3.8a
 expīlō 1|vykrást, vyloupit|3.8a
 animadvertō, ere, vertī, versum|všimnout si, pozorovat; trestat|3.8a
 tabula picta|obrázek|3.8a
-vōtum, ī, n.|modlitba (zaslíbení: „jestli přežiju, věnuji ti...“)|3.8a
 portus, ūs, m.|přístav|3.8a
 salvus 3|zdravý, ve zdraví|3.8a
 pingō, pingere, pīnxī, pictum|kreslit, nakreslit|3.8a
@@ -546,9 +542,7 @@ commodē|příjemně, pohodlně, snadno|3.9
 cōnfīdō, ere, confīsus sum|důvěřovat (si), věřit, svěřovat|3.9
 occidō, ere, occidī, occāsūrus|padnout, zapadnout, zaniknout, zemřít|3.9
 aeternitās, ātis, f.|věčnost|3.9
-cōnstituō, ere, uī, ūtum|ustanovit (zde: definovat)|3.9
 aliquid aliquem manet|něco někoho čeká|3.9
-convalēscō, ere, convaluī|uzdravit se|3.9
 effugiō, ere, effūgī + akuz.|utéci něčemu, ujít něčemu|3.9
 valētūdō, inis, f.|zdraví; chatrné zdraví, nemoc|3.9
 biduum, ī, n,|dva dny, doba dvou dnů|3.9
@@ -560,7 +554,7 @@ imbellis, e|neválečný, nebojující|3.9
 trepidō 1|třást se, bát se|3.9
 Ēpīrōtae, ārum, m.|obyvatelé Epeiru; Epeiros|3.10
 ferō alicuī auxilium|jdu někomu pomoci|3.10
-contendō, ere, tendī, tentum|mířím, spěchám někam|3.10
+contendō, ere, tendī, tentum|mířím, spěchám někam, poměřovat se, soupeřit|3.10
 verberō 1|bičuji, šlehám|3.10
 amābo|prosím|3.10
 vomō, ere, uī, itum|zvracet|3.10
@@ -636,7 +630,6 @@ torpeō, ēre|být malátný, ospalý, neaktivní|3.11
 formīca, ae, f.|mravenec|3.11
 intellēctus, ūs, m.|intelekt, rozum|3.11
 ārea, ae, f.|parcela|3.11
-spatium, iī, n.|vzdálenost, prostor|3.11
 ventus, ī, m.|vítr|3.11
 vītō 1 + akuz.|vyhýbat se něčemu|3.11
 tangō, ere, tetigī, tāctum|dotknout se|3.11
@@ -689,7 +682,6 @@ pars – pars|část – část; jedni – druzí; někteří – někteří;|3.
 sustineō, ēre, -uī, -tentum|podepírat, udržovat, odolávat; zde: držet se na živu (živit se něčím, aby člověk přežil);|3.13a
 ostendō, ere, ostendī, ostentum (i ostensum)|ukazovat;|3.13a
 ōcius|rychleji, rychle;|3.13a
-patientia, ae, f.|odolnost, schopnost snést něco;|3.13a
 pertinācia, ae, f.|houževnatost, vytrvalost, nezdolnost;|3.13a
 frangō, ere, frēgī, frāctum|zlomit, oslabit;|3.13a
 domesticam disciplīnam regere|udržovat doma disciplínu (řádnost);|3.13a
@@ -724,7 +716,7 @@ relēgō 1|odeslat někoho někam (do ústraní, pryč)|3.13a
 agrestis, e|polní|3.13a
 fatīgō 1|uhánět, uštvávat (štvát); vyčerpávat, zaměstnávat|3.13a
 cōmitās, ātis, f.|přívětivost, laskavost|3.13a
-patientia, ae, f.|trpělivost, snášenlivost; schopnost se ovládat|3.13a
+patientia, ae, f.|trpělivost, snášenlivost; schopnost se ovládat; odolnost|3.13a
 ancillula, ae, f.|služtička|3.13a
 domitor, ōris, m.|krotitel, podmanitel|3.13a
 vindicta, ae, f.|(po)msta|3.13a
@@ -736,7 +728,6 @@ dissēnsiō, ōnis, f.|nesouhlas|3.13b
 perfectrīx, īcis, f.|ta, která něco zajišťuje = zajišťovatelka|3.13b
 opus est mihi + ablativ|potřebuji|3.13b
 versor 1 in +abl.|pohybuji se v něčem, zabývám se něčím|3.13b
-disputō 1|probírám, rozebírám něco v debatě|3.13b
 perfectiō, ōnis, f.|dokončení|3.13b
 iacere fundāmenta|položit základy|3.13b
 commendō 1|doporučit|3.13b
@@ -770,7 +761,6 @@ aequē|stejně|3.14ab
 mortifer, era, erum|smrtonosný|3.14ab
 capillus, ī, m.|vlas|3.14ab
 coma, ae, f.|vlas, vlasy|3.14ab
-contendō, ere, tendī, tentum|poměřovat se, soupeřit, mířit někam|3.14ab
 grandis nātū|starý|3.14ab
 argūmentum, ī, n.|důkaz|3.14ab
 probō 1|schválit, prokázat|3.14ab
@@ -784,7 +774,6 @@ gāneōd, ōnis, m.|hýřil|3.14ab
 sub excūsātiōne + gen.|s výmluvou spočívající v tom, že…|3.14ab
 adversa valētūdō|špatné zdraví|3.14ab
 idōneus 3|vhodný|3.14ab
-comparō 1|obstarat, srovnat|3.14ab
 pedisecla, ae, f.|služka (nohsledka)|3.14ab
 abhorreō, ēre, uī + ab|s hrůzou se odvracím od; neshoduji se s|3.14ab
 factitō 1|dělávat|3.14ab
